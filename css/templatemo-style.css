@@ -180,7 +180,15 @@ footer {
   background: #161616;
 }
 
+.bg-skills {
+  background: 
+  #ccdaf0
+  ;
+}
 
+.color-dark{
+  color: #3b3731;
+}
 
 /*---------------------------------------
     General               
@@ -191,14 +199,14 @@ html{
 }
 
 a {
-  color: #E3AE57;
+  color: #fad1af;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
   text-decoration: none !important;
 }
 a:hover, a:active, a:focus {
-  color: #E3AE57;
+  color: #fad1af;
   outline: none;
 }
 
@@ -356,7 +364,7 @@ a:hover, a:active, a:focus {
 }
 
 #home .home-img {
-  background: url('../images/home-img.jpeg') no-repeat;
+  background: url('../images/home-img2.jpg') no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   width: 100%;
@@ -490,7 +498,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #quotes {
-    background: url('../images/quotes-bg.jpeg') 50% 0 repeat-y fixed;
+    background: url('../images/quotes-bg1.jpeg') 50% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
     color: #ffffff;
@@ -515,6 +523,7 @@ a:hover, a:active, a:focus {
 
 #quotes p {
   padding-top: 32px;
+  color: #ffff;
 }
 
 
